@@ -79,6 +79,7 @@ Membuat laporan tampilan grid yang dikategorikan berdasarkan "Status Pinjaman". 
    - Dana yang Diterima Kembali : $473 juta, mengalami peningkatan 15,9% MoM
    - Rata-rata Suku Bunga : 12,05%, naik 3,5% MoM
    - Rata-Rata DTI : 13,33%, naik 2,7% MoM
+     
 Artinya, bank mengalami peningkatan jumlah aplikasi pinjaman, pencairan dana, dan dana yang diterima kembali dibandingkan bulan sebelumnya. Namun, suku bunga dan rasio DTI juga meningkat, yang perlu diawasi untuk menjaga risiko kredit.
 
 
