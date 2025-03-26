@@ -2,7 +2,16 @@
 Untuk memantau dan menilai aktivitas serta kinerja pemberian pinjaman di bank, diperlukan untuk membuat Laporan Pinjaman Bank yang komprehensif. Laporan ini bertujuan untuk memberikan wawasan mengenai metrik utama yang berkaitan dengan pinjaman serta perubahan yang terjadi seiring waktu. Laporan ini akan membantu dalam pengambilan keputusan dengan basis data, melacak kesehatan portofolio pinjaman, dan mengidentifikasi tren yang dapat menjadi dasar strategi pemberian pinjaman
 
 ## Dataset yang Digunakan
-- <a href="https://github.com/ifanapridarahman/Dashboard_Laporan_Pinjaman_Bank/blob/main/financial_loan.csv">Dataset</a> 
+- <a href="https://github.com/ifanapridarahman/Dashboard_Laporan_Pinjaman_Bank/blob/main/financial_loan.csv">Dataset</a>
+
+## Dashboard Interaktif
+- <a href="https://github.com/ifanapridarahman/Dashboard_Laporan_Pinjaman_Bank/blob/main/Analisis%20Pinjaman%20Bank.pbix">Dashboard Power BI</a>
+- <a href="https://github.com/ifanapridarahman/Dashboard_Laporan_Pinjaman_Bank/blob/main/Bank%20Loan%20Analysis%20Dashboar.twbx">Dashboard Tableu</a>
+- <a href="https://github.com/ifanapridarahman/Dashboard_Laporan_Pinjaman_Bank/blob/main/financial_loan_Project.xlsx">Dashboard Excel</a>
+
+## Perhitungan dengan Menggunakan MySQL Workbench
+- <a href="https://github.com/ifanapridarahman/Dashboard_Laporan_Pinjaman_Bank/blob/main/Bank_Loan_Analysis.sql">Query</a>
+- <a href="https://github.com/ifanapridarahman/Dashboard_Laporan_Pinjaman_Bank/blob/main/Penjelasan%20Query%20SQL%20Laporan%20Pinjaman%20Bank.docx">Penjelasan Query</a>
 
 ## DASHBOARD 1 - RINGKASAN
 ## Persyaratan KPI
