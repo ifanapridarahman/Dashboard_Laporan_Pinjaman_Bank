@@ -108,4 +108,17 @@ Rasio pinjaman buruk cukup rendah (13,8%), yang menunjukkan bahwa mayoritas pinj
 Mayoritas pinjaman berada dalam status lunas atau sedang berjalan, namun jumlah gagal bayar cukup besar (5.332 aplikasi) yang bisa menjadi fokus perbaikan strategi risiko kredit. Bank bisa mempertimbangkan pengetatan syarat pinjaman atau peningkatan strategi mitigasi risiko
 
 
+## DASHBOARD 2 - GAMBARAN UMUM
+1. **Tren Bulanan Berdasarkan Tanggal**
+   - Menampilkan variasi Total Aplikasi Pinjaman, Total Dana yang dibiayai, dan Total Dana yang Diterima seiring waktu, memungkinkan untuk mengidentifikasi pola serta tren jangka panjang dalam aktivitas pemberian pinjaman.
+2. **Analisis Wilayah Berdasarkan Negara Bagian**
+   - Merepresentasikan metrik pinjaman berdasarkan negara bagian dengan menggunakan Filled Map, untuk membantu mengidentifikasi wilayah dengan aktivitas pinjaman yang signifikan serta menilai kesenjangan antar wilayah
+3. **Analisis Jangka Waktu Pinjaman**
+   - Menampilkan statistik pinjaman berdasarkan jangka waktu pinjaman yang berbeda, sehingga dapat memahami distribusi pinjaman berdasarkan panjang tenor
+4. **Analisis Lama Bekerja Peminjam**
+   - Menunjukkan distribusi metrik pinjaman berdasarkan lama bekerja peminjam, membantu untuk menilai dampak riwayat pekerjaan terhadap aplikasi pinjaman.
+5. Rincian Tujuan Pinjaman
+   - Menyajikan rincian visual metrik pinjaman berdasarkan tujuan pinjaman yang dinyatakan oleh peminjam, sehingga dapat memahami alasan untama mereka mencari pembiayaan
+6. Analisis Kepemilikan Rumah
+   - Peta hiearkis menampilkan metrik pinjaman berdasarkan status kepemilikan rumah, memungkinkan dapat melihat bagaimana kepemilikan ruma memengaruhi aplikasi dan pencairan pinjaman.
 
