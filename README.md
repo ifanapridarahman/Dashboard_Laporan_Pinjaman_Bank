@@ -26,3 +26,40 @@ Untuk memantau dan menilai aktivitas serta kinerja pemberian pinjaman di bank, d
    - Mengevaluasi rata-rata rasio utang terhadap pendapatan (DTI) peminjam untuk mengukur kesehatan finansial peminjam.
    - Menghitung rata-rata DTI untuk semua pinjaman dan MTD.
    - Melacak fluktuasi rata-rata DTI dari MoM
+  
+## KPI Pinjaman Baik
+1. **Persentase Aplikasi Pinjaman Baik**
+   - Menghitung persentase aplikasi pinjaman yang diklasifikasikan sebagai "Pinjaman Baik"
+   - Kategori pinjaman baik mencakup pinjaman dengan Status "Lunas" (Fully Paid) dan "Aktif" (Current).
+2. **Jumlah Aplikasi Pinjaman Baik**
+   - Mengidentifikasi jumlah total aplikasi pinjaman yang masuk dalam kategori "Pinjaman Baik"
+   - Yang masuk kategori "Pinjaman Baik" yaitu pinjaman dengan status "Lunas" dan "Aktif"
+3. **Total Dana yang Dicairkan untuk Pinjaman Baik**
+   - Menentukan jumlah tota dana yang dicairkan sebagai "Pinjaman Baik"
+4. **Total Dana yang Diterima dari Pinjaman Baik**
+   - Melacak jumlah total dana yang diterima dari peminjam untuk "Pinjaman Baik" yang mencakup pembayaran yang dilakukan pada pinjaman dengan status "Lunas" dan "Aktif"
+
+## KPI Pinjaman Buruk
+1. **Persentase Aplikasi Pinjaman Buruk**
+   - Menghitung persentase aplikasi pinjaman yang dikategorikan sebagai "Pinjaman Buruk"
+   - Kategori ini secara khusus mencakup pinjaman dengan status "Macet" (Charged Off).
+2. **Jumlah Aplikasi Pinjaman Buruk**
+   - Mengidentifikasi jumlah total aplikasi pinjaman yang masuk dalam kategori "Pinjaman Buruk"
+   - Yang masuk kategori "Pinjaman Buruk" yaitu pinjaman dengan status "Macet".
+3. **Total Dana yang Dicairkan untuk Pinjaman Buruk**
+   - Menentukan jumlah tota dana yang dicairkan sebagai "Pinjaman Buruk"
+4. **Total Dana yang Diterima dari Pinjaman Buruk**
+   - Melacak jumlah total dana yang diterima dari peminjam untuk "Pinjaman Buruk" yang mencakup semua pembayaran yang dilakukan pada pinjaman dengan status "Macet".
+
+## Tampilan Grid Status Pinjaman
+Membuat laporan tampilan grid yang dikategorikan berdasarkan "Status Pinjaman". Dengan memberikan wawasan mengenai metrik seperti :
+- Total Aplikasi Pinjaman
+- Total Dana yang Dicairkan beserta MTD
+- Total Dana yang Diterima beserta MTD
+- Rata-Rata Suku Bunga
+- Rata-Rata DTI
+
+## Dashboard
+![Dashboard Laporan Pinjaman Bank - Ringkasan](https://github.com/user-attachments/assets/221f380c-fb4c-405c-a4e1-1a1573924a3d)
+- <a href="https://github.com/ifanapridarahman/Dashboard_Laporan_Pinjaman_Bank/blob/main/Dashboard%20Laporan%20Pinjaman%20Bank%20-%20Ringkasan.png">Dashboard KPI</a>
+
