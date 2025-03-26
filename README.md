@@ -82,4 +82,30 @@ Membuat laporan tampilan grid yang dikategorikan berdasarkan "Status Pinjaman". 
      
 Artinya, bank mengalami peningkatan jumlah aplikasi pinjaman, pencairan dana, dan dana yang diterima kembali dibandingkan bulan sebelumnya. Namun, suku bunga dan rasio DTI juga meningkat, yang perlu diawasi untuk menjaga risiko kredit.
 
+2. **Kualitas Pinjaman**
+   - **Pinjaman Baik**
+     - 86,2% dari total pinjaman termasuk kategori baik
+     - Sebanyak 33,2K aplikasi pinjaman baik dengan dana yang dicairkan sebanyak $370,2 M
+   - **Pinjaman Buruk**
+     - 13,8% dari total pinjaman termasuk kategori buruk
+     - Sebanyak 5,3K aplikasi masuk kategori pinjaman buruk dengan dana yang dicairkan sebesar $65,5M
+     - Dana diterima kembali dari pinjaman buruk hanya $37,3M, menandakan potensi gagal bayar
+     - Peminjam buruk perlu dikontrol karena jumlah dana yang diterima lebih kecil dari yang dicairkan
+
+Rasio pinjaman buruk cukup rendah (13,8%), yang menunjukkan bahwa mayoritas pinjaman yang diberikan berada dalam kategori aman. Namun, jumlah dana yang diterima kembali dari pinjaman buruk lebih kecil dibandingkan dana yang dicairkan, menunjukkan adanya risiko gagal bayar yang perlu dikendalikan.
+
+3. **Status Pinjaman Berdasarkan Kategori**
+   - Fully Paid (Lunas)
+     - Jumlah aplikasi sebanyak (32.141 aplikasi) dengan dana dicairkan $351,3M dan dana yang diterima $414,5M.
+     - Ini menunjukkan bahwa mayoritas peminjam mampu melunasi pinjamannya
+   - Current (Sedang Berjalan)
+     - 1.097 aplikasi dengan dana dicairkan $18,9M.
+     - Masih dalam status pembayaran aktif
+   - Charged Off (Gagal Bayar)
+     - 5.332 aplikasi dengan dana dicairkan $65,5M, tetapi dana diterima hanya $37,2M yang berarti terdapat kerugian signifikan akibat gagal bayar
+     - Rata-rata suku bunga pada kategori ini lebih tinggi (13,88%), mungkin sebagai kompensasi risik0
+
+Mayoritas pinjaman berada dalam status lunas atau sedang berjalan, namun jumlah gagal bayar cukup besar (5.332 aplikasi) yang bisa menjadi fokus perbaikan strategi risiko kredit. Bank bisa mempertimbangkan pengetatan syarat pinjaman atau peningkatan strategi mitigasi risiko
+
+
 
