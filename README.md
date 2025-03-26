@@ -72,3 +72,13 @@ Membuat laporan tampilan grid yang dikategorikan berdasarkan "Status Pinjaman". 
 ![Dashboard Laporan Pinjaman Bank - Ringkasan](https://github.com/user-attachments/assets/221f380c-fb4c-405c-a4e1-1a1573924a3d)
 - <a href="https://github.com/ifanapridarahman/Dashboard_Laporan_Pinjaman_Bank/blob/main/Dashboard%20Laporan%20Pinjaman%20Bank%20-%20Ringkasan.png">Dashboard KPI</a>
 
+## Insight
+1. **Performa Pinjaman Secara Keseluruhan**
+   - Total Aplikasi Pinjaman : 38,6K dengan kenaikan 6,9% MoM
+   - Dana yang Dicairkan : $435,7 Juta naik 13,1% MoM
+   - Dana yang Diterima Kembali : $473 juta, mengalami peningkatan 15,9% MoM
+   - Rata-rata Suku Bunga : 12,05%, naik 3,5% MoM
+   - Rata-Rata DTI : 13,33%, naik 2,7% MoM
+   Artinya, bank mengalami peningkatan jumlah aplikasi pinjaman, pencairan dana, dan dana yang diterima kembali dibandingkan bulan sebelumnya. Namun, suku bunga dan rasio DTI juga meningkat, yang perlu diawasi untuk menjaga risiko kredit.
+
+
