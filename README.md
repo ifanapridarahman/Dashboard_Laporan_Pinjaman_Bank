@@ -158,3 +158,6 @@ Tujuan Dashboard detail adalah menyediakan antarmuka yang komprehensif dan ramah
 ![Dashboard Laporan Pinjaman Bank - Detail](https://github.com/user-attachments/assets/ad9f1b66-c20d-490f-9112-65c79a64be04)
 - <a href="https://github.com/ifanapridarahman/Dashboard_Laporan_Pinjaman_Bank/blob/main/Dashboard%20Laporan%20Pinjaman%20Bank%20-%20Detail.png">Dashboard Detail</a>
 
+
+Dashboard ini menunjukkan bahwa permintaan pinjaman terus meningkat dengan mayoritas pinjaman dalam kategori baik. Namun, porsi pinjaman buruk masih cukup signifikan (13.8%), sehingga diperlukan strategi mitigasi risiko kredit yang lebih ketat. Selain itu, suku bunga yang stabil dan pertumbuhan dana yang diterima bank menunjukkan performa yang sehat dalam pengelolaan pinjaman
+
