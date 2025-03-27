@@ -117,8 +117,36 @@ Mayoritas pinjaman berada dalam status lunas atau sedang berjalan, namun jumlah 
    - Menampilkan statistik pinjaman berdasarkan jangka waktu pinjaman yang berbeda, sehingga dapat memahami distribusi pinjaman berdasarkan panjang tenor
 4. **Analisis Lama Bekerja Peminjam**
    - Menunjukkan distribusi metrik pinjaman berdasarkan lama bekerja peminjam, membantu untuk menilai dampak riwayat pekerjaan terhadap aplikasi pinjaman.
-5. Rincian Tujuan Pinjaman
+5. **Rincian Tujuan Pinjaman**
    - Menyajikan rincian visual metrik pinjaman berdasarkan tujuan pinjaman yang dinyatakan oleh peminjam, sehingga dapat memahami alasan untama mereka mencari pembiayaan
-6. Analisis Kepemilikan Rumah
+6. **Analisis Kepemilikan Rumah**
    - Peta hiearkis menampilkan metrik pinjaman berdasarkan status kepemilikan rumah, memungkinkan dapat melihat bagaimana kepemilikan ruma memengaruhi aplikasi dan pencairan pinjaman.
 
+## Dashboard
+![Dashboard Laporan Pinjaman Bank - Gambaran Umum](https://github.com/user-attachments/assets/6506dc74-1b61-4f8e-8158-a742c458b0a6)
+- <a href="https://github.com/ifanapridarahman/Dashboard_Laporan_Pinjaman_Bank/blob/main/Dashboard%20Laporan%20Pinjaman%20Bank%20-%20Gambaran%20Umum.png">Dashboard Gambaran Umum</a>
+
+## Insight
+1. **Tren Aplikasi Pinjaman Per Bulan**
+   - Total aplikasi pinjaman terus meningkat sepanjang tahun, dengan puncaknya di bulan November mencapai 4,3K aplikasi
+   - Peningkatan yang stabil menunjukkan adanya permintaan pinjaman yang terus bertambah, kemungkinan dipengaruhi oleh faktor musiman atau kondisi ekonomi
+   - **Bank dapat menganalisis penyebab tren ini dan mengoptimalkan strategi pemasaran di bulan-bulan dengan permintaan tinggi**.
+2. **Distribusi Aplikasi Pinjaman Berdasarkan Wilayah**
+   - Peta menunjukkan bahwa beberapa wilayah memiliki jumlah aplikasi yang lebih tinggi dibanding wilayah lain, yang bisa disebabkan oleg faktor ekonomi, geografi, atau kebijakan bank.
+   - **Bank dapat menargetkan wilayah dengan aplikasi rendah untuk meningkatkan penetrasi pasar atau menyesuaikan strategi risiko kredit di wilayah dengan tingkat pinjaman tinggi**
+3. **Jangka Waktu Pinjaman**
+   - Mayoritas pinjaman memiliki tenor 36 bulan (73,2%) dibandingkan dengan 60 bulan (26,8%).
+   - Artinya peminjam lebih cenderung memilih pinjaman jangka pendek, mungkin karena disebabkan oleh suku bunga yang lebih rendah dibandingkan dengan tenor yang lebih panjang atau preferensi untuk melunasi utang lebih cepat.
+4. **Aplikasi Pinjaman Berdasarkan Lama Bekerja**
+   - Peminjam dengan pengalaman kerja lebih dari 10 tahun paling banyak mengajukan pinjaman (8,9K aplikasi), diikuti oleh ereka yang memiliki pengalaman kerja 1-4 tahun (3,5K - 4,6K aplikasi).
+   - Peminjam dengan pengalaman kerja 6 tahun memiliki jumlah aplikasi lebih rendah yaitu 2,2K aplikasi.
+   - **Ini memungkinkan bahwa stabilitas pekerjaan mungkin menjadi faktor utama dalam persetujuan pinjaman, karena mereka dengan pengalaman kerja lama memiliki kemungkinan lebih besar untuk disetujui.**
+5. **Tujuan Pinjaman**
+   - Tujuan utama peminjam adalah untuk Debt Consolidation (Konsolidasi Utang) dengan jumlah aplikasi tertinggi, yaitu 18K.
+   - Tujuan lainnya seperti kartu kredit (5k), usaha kecil (2k), dan pernikahan (1k) memiliki jumlah aplikasi lebih rendah.
+   - **Ini menunjukkan bahwa banyak peminjam menggunakan pinjaman untuk melunasi utang yang lebih lama, bukan untuk kebutuhan konsumtif atau investasi**.
+6. **Kepemilikan Rumah**
+   - Mayoritas peminjam adalah penyewa rumah (RENT - 18K) dibandingkan dengan yang memiliki rumah dengan hipotek (MORTGAGE - 17K)
+
+
+** NOTE: Untuk Pengukuran (Measure) lainnya (Total Dana yang Dicairkan dan Total Dana yang Diterim) bisa diakses dilink Dashboard Interaktif**
