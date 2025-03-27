@@ -149,4 +149,4 @@ Mayoritas pinjaman berada dalam status lunas atau sedang berjalan, namun jumlah 
    - Mayoritas peminjam adalah penyewa rumah (RENT - 18K) dibandingkan dengan yang memiliki rumah dengan hipotek (MORTGAGE - 17K)
 
 
-** NOTE: Untuk Pengukuran (Measure) lainnya (Total Dana yang Dicairkan dan Total Dana yang Diterim) bisa diakses dilink Dashboard Interaktif**
+**NOTE: Untuk Pengukuran (Measure) lainnya (Total Dana yang Dicairkan dan Total Dana yang Diterim) bisa diakses dilink Dashboard Interaktif**
