@@ -150,3 +150,11 @@ Mayoritas pinjaman berada dalam status lunas atau sedang berjalan, namun jumlah 
 
 
 **NOTE: Untuk Pengukuran (Measure) lainnya (Total Dana yang Dicairkan dan Total Dana yang Diterim) bisa diakses dilink Dashboard Interaktif**
+
+
+## DASHBOARD 3 - DETAIL
+Tujuan Dashboard detail adalah menyediakan antarmuka yang komprehensif dan ramah pengguna untuk mengakses data pinjaman yang penting. Dashboard ini akan menjadi solusi terpadu bagi pengguna yang ingin mendapatkan wawasan mendalam tentang portofolio pinjaman bnak, profil peminjam, dan kinerja pinjaman
+
+![Dashboard Laporan Pinjaman Bank - Detail](https://github.com/user-attachments/assets/ad9f1b66-c20d-490f-9112-65c79a64be04)
+- <a href="https://github.com/ifanapridarahman/Dashboard_Laporan_Pinjaman_Bank/blob/main/Dashboard%20Laporan%20Pinjaman%20Bank%20-%20Detail.png">Dashboard Detail</a>
+
